@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:icon="@drawable/home_icon_selector"
+
+        />
+    <item
+        android:title="Orders"
+        android:icon="@drawable/history_icon_selector"
+        />
+
+    <item
+        android:title=""
+        android:checkable="false"
+        />
+
+    <item
+        android:title="Notifications"
+        android:icon="@drawable/noti_icon_selector"
+
+        />
+
+    <item
+        android:title="My Account"
+        android:icon="@drawable/account_icon_selector"
+        />
+</menu>
